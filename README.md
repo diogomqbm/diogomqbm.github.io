@@ -1,2 +1,2 @@
 # diogomqbm.github.io
-My personal website
+This website was bootstrapped with https://github.com/flexdinesh/dev-landing-page
